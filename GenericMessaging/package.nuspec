@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <!--*-->
+    <id>GenericMessaging</id>
+    <!--*-->
+    <version>1.0.8</version>
+    <title>GenericMessaging</title>
+    <!--*-->
+    <authors>Aptiv WLL</authors>
+    <owners>Aptiv WLL</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+-->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--*-->
+    <description>Describes the classes for generic messaging.</description>
+    <!--*-->
+    <releaseNotes>Added DeviceStream object.</releaseNotes>
+    <copyright>Copyright © Aptiv WLL 2018</copyright>
+    <tags>
+    </tags>
+    <dependencies>
+      <!--
+      <dependency id="SampleDependency" version="1.0" />
+-->
+    </dependencies>
+  </metadata>
+</package>
